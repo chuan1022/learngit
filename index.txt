@@ -2,4 +2,3 @@ new git
 new text 
 helloword
 index texts
-lastest
