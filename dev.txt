@@ -4,3 +4,4 @@ masterdev
 branchdev
 xuchuan
 hello user2 commit
+hello user1 commit
