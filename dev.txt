@@ -3,4 +3,4 @@ home.txt
 masterdev
 branchdev
 xuchuan
-hello
+hello user1 commit
